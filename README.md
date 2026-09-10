@@ -1,11 +1,13 @@
 ## The Game — Jogo com a biblioteca Allegro
 Trabalho acadêmico desenvolvido em C, junto da biblioteca Allegro, com o objetivo de aplicar aprimorar as habilidades de programação com projetos.
+Para compilar, utilize o comando *make* no terminal na pasta The Game.
 
 ## 📖 Sobre o projeto
 
 - 📖 Biblioteca allegro com elementos de jogo
 - 🧙‍♂️ Inspirado no Space Invaders e Mario
-
+- 🧱 Utilização de diversas strucs e linkagens
+  
 ## 🎯 Objetivos de aprendizado
 
 - 👾 Aprimorar o conhecimento sobre algoritmos
